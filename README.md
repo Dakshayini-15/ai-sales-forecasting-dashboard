@@ -2,6 +2,13 @@
 
 An interactive sales analytics and forecasting dashboard built using Python, Streamlit, Plotly, and Machine Learning.
 
+## Live Dashboard
+
+🚀 View the interactive dashboard here:
+
+https://dakshayini-ai-sales-forecasting.streamlit.app/
+
+
 ## Project Overview
 
 This project analyzes historical Superstore sales data and provides an interactive dashboard for exploring business performance.
